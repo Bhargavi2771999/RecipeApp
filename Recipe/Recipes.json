@@ -1,0 +1,49 @@
+[
+    {
+      "id": "1",
+      "title": "Spaghetti Aglio e Olio",
+      "image": "spaghetti_aglio_olio.jpg",
+      "ingredients": [
+        "200g spaghetti",
+        "4 cloves garlic (sliced)",
+        "1/4 cup olive oil",
+        "1/2 tsp red pepper flakes",
+        "2 tbsp fresh parsley (chopped)",
+        "Salt & pepper to taste",
+        "Parmesan cheese (optional)"
+      ],
+      "instructions": [
+        "Cook spaghetti in salted boiling water until al dente, then drain (reserve some pasta water).",
+        "In a pan, heat olive oil over medium heat and sauté garlic until golden.",
+        "Add red pepper flakes and stir for a few seconds.",
+        "Toss in the cooked spaghetti and mix well. If dry, add a bit of reserved pasta water.",
+        "Season with salt, pepper, and sprinkle parsley.",
+        "Serve hot with Parmesan cheese, if desired."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Classic Pancakes",
+      "image": "classic_pancakes.jpg",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/4 tsp salt",
+        "3/4 cup milk",
+        "1 egg",
+        "2 tbsp melted butter",
+        "1 tsp vanilla extract"
+      ],
+      "instructions": [
+        "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+        "In another bowl, mix milk, egg, melted butter, and vanilla extract.",
+        "Combine wet and dry ingredients; mix until just combined (don’t overmix).",
+        "Heat a pan and grease lightly with butter. Pour batter and cook until bubbles form.",
+        "Flip and cook the other side until golden brown.",
+        "Serve with syrup, butter, or fresh fruit."
+      ]
+    }
+  ]
+  
